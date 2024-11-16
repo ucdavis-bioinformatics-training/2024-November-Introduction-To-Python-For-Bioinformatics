@@ -2,7 +2,7 @@
 
 ### For Windows
 
-First, install python3. Most of you will probably use the [python3 64-bit installer](https://www.python.org/ftp/python/3.11.4/python-3.11.4-amd64.exe). If you need another version, go to the [python3 downloads page](https://www.python.org/downloads/windows/) and choose the one you want.
+First, install python3. Most of you will probably use the [python3 64-bit installer](https://www.python.org/ftp/python/3.13.0/python-3.13.0-amd64.exe). If you need another version, go to the [python3 downloads page](https://www.python.org/downloads/windows/) and choose the one you want.
 
 Next, install VSCode. Go to the [VSCode home page](https://code.visualstudio.com/) and it should automatically detect your OS and give you a download link. You can also go to the [downloads page](https://code.visualstudio.com/#alt-downloads) and choose from there.
 
@@ -10,7 +10,7 @@ Open VSCode. Go to the "View" menu and click on "Extensions". Search for "python
 
 ### For Macs
 
-First, install python3. Most of you will probably use the [python3 64-bit universal2 installer](https://www.python.org/ftp/python/3.11.4/python-3.11.4-macos11.pkg). If you need another version, go to the [python3 downloads page](https://www.python.org/downloads/macos/) and choose the one you want.
+First, install python3. Most of you will probably use the [python3 64-bit universal2 installer](https://www.python.org/ftp/python/3.13.0/python-3.13.0-macos11.pkg). If you need another version, go to the [python3 downloads page](https://www.python.org/downloads/macos/) and choose the one you want.
 
 Next, install VSCode. Go to the [VSCode home page](https://code.visualstudio.com/) and it should automatically detect your OS and give you a download link. You can also go to the [downloads page](https://code.visualstudio.com/#alt-downloads) and choose from there.
 
