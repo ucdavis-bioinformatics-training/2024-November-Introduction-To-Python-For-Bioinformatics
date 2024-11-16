@@ -1,9 +1,9 @@
 All documentation for the workshop is best viewed from the github.io pages
 
-[Documentation](https://ucdavis-bioinformatics-training.github.io/2024-April-Introduction-To-Python-For-Bioinformatics/)
+[Documentation](https://ucdavis-bioinformatics-training.github.io/2024-November-Introduction-To-Python-For-Bioinformatics/)
 
 Introduction To Python For Bioinformatics<br>
-April 29 - May 3 2024, 2 to 5pm each day<br>
+Nov 18 - 22 2024, 2 to 5pm each day<br>
 Organizer - [Bioinformatics Core at UC Davis](https://bioinformatics.ucdavis.edu/)<br>
 Contact - UC Davis Bioinformatics Core, training.bioinformatics@ucdavis.edu<br>
 
