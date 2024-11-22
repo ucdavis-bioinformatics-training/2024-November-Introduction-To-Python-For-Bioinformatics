@@ -186,13 +186,13 @@ print("3.2 truncated:", int(3.2))
 
 import math
 print("Ceiling of 3.2 is:", math.ceil(3.2))
-print("Floor of 3.2 is:", math.floor(3.7))
+print("Floor of 3.7 is:", math.floor(3.7))
 print("Truncating 3.7:", int(3.7))
 ```
 
 The [math package](https://docs.python.org/3/library/math.html) has many common math functions you can use.
 
-**PRACTICE**: Add and multiply various datatypes together using conversions and math methods. Play around with other math methods. Try the "atan2" method and try the "log" method with a different base than the default.
+**PRACTICE**: Add and multiply various datatypes together using arithmetic and math methods. Play around with other math methods. Try the "atan2" method and try the "log" method with a different base than the default.
 
 
 # Basic Data Structures: Lists and Dictionaries.

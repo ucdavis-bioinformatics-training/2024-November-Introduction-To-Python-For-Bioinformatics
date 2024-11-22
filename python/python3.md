@@ -206,6 +206,19 @@ print(logfc(89,12,5))
 print(logfc(89,12))
 ```
 
+## Scope: Local vs. Global variables
+
+When a variable is defined outside of a function, it is known as a Global Variable. Variables defined inside functions are called Local Variables. A local variable is only accessible within the function, whereas a global variable can be accessed anywhere. It is generally good programming practice to use local variables in functions, and not global ones. If you need to access a global variable inside a function, you should pass it in as a parameter.
+
+```
+# this will produce an error!
+def hello():
+    myvar=3
+
+hello()
+print(myvar)
+```
+
 **PRACTICE**: Write a function to calculate the Fibonacci numbers given a maximum value. Return a list of Fibonacci numbers below that value.
 
 For example, if the max is 100, the return value from the function should be:
